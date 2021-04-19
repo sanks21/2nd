@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="mystery">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2019</year>
+    <price>56.00</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">lOST SYMBOL</title>
+    <author>dAN brown</author>
+    <year>2018</year>
+    <price>32.98</price>
+  </book>
+  <book category="web">
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2007</year>
+    <price>100.99</price>
+  </book>
+</bookstore>
